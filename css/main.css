@@ -1,0 +1,9 @@
+.box-1{
+    display: flex;
+    gap: 10px;
+}
+
+.box-2{
+    display: flex;
+    gap: 10px;
+}
